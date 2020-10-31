@@ -1,0 +1,12 @@
+body {
+			border-width: 10px;
+			border-color: #e15f41;
+			font-size: 20px ;
+			background-image: url(font.jpg);
+			background-repeat:no-repeat;
+			background-size: cover ;
+			color:white;
+	}
+img {
+			width: 200px
+	}
